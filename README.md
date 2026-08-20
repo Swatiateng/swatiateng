@@ -12,7 +12,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> swati bagali</a>
 <p align="center">
   <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+AND+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a> -->
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer;Python+Developer;Committed+to+lifelong+learning;learn+✘+unlearn+✘+relearn" width="415" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer science;Python+Developer;Committed+to+lifelong+learning;learn+✘+unlearn+✘+relearn" width="415" />
  
   
 </p>
@@ -68,7 +68,9 @@ Hi, I'm <a href="https://github.com/adilrahman"> swati bagali</a>
       
 #### Web Development
 ![django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40)&nbsp;
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
+<a href="https://restfulapi.net/">
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/>
+</a>
 ---
 
 #### Database
