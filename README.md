@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
+Hi, I'm <a href="https://github.com/adilrahman"> swati bagali</a>
  <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
 </h1>
 
@@ -31,13 +31,9 @@ Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
 > root :~ whoami 
 ```
 ```python
-> I am a Data Scientist and a ML | DL Developer 💻
-> I have a Bachelors in Computer Science from KTU 📚 - kerala,India
-> I have a strong interest in Data Science and AI 📝
-> Working on Deep Learning & Machine Learning 🔭
-> Learning about DL , ML and mobile application development 👨‍💻 
-> Interested in Full Stack Machine Learning Application development 🚩
-
+> I am a backend developer enthusiast 💻
+> I have a Bachelors in Computer Science from NIE 📚 - karnataka,India
+> I enjoy  API calling and Error handeling📝
 > Committed to lifelong learning 💖
 ```
 
@@ -54,33 +50,21 @@ Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
  
   <td> <h3 align="center"> :zap: SKILLS </h3>   </td>
   <td> 
-  <h3 align="center"> 📊  STATS </h3>
-  </td>
  
- </tr>
- <tr>
-    <td width="55%">
      
  
 
 #### Lanuages 
-
+---
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black)&nbsp;
+
 ![Html](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)
 ---
-#### Data Science | ML | DL Tools
 
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ! -->
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)&nbsp;
-![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
----
       
 #### Web Development
 ![django](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEofrkPrn2fOJTn47l-g5nJ_E5GmtK5xTKs_xFYDgVA&s=10)&nbsp;
