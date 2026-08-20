@@ -12,7 +12,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> swati bagali</a>
 <p align="center">
   <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+AND+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a> -->
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Data+Scientist;ML+And+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning;learn+✘+unlearn+✘+relearn" width="415" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer;Python+Developer;Committed+to+lifelong+learning;learn+✘+unlearn+✘+relearn" width="415" />
  
   
 </p>
@@ -67,8 +67,8 @@ Hi, I'm <a href="https://github.com/adilrahman"> swati bagali</a>
 
       
 #### Web Development
-![django](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEofrkPrn2fOJTn47l-g5nJ_E5GmtK5xTKs_xFYDgVA&s=10)&nbsp;
-![rest API](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztIYTEE2ObamWQTVVvIDRKAEjdxwriQ7xCJ268lJ6cA&s=10)
+![django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40)&nbsp;
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ---
 
 #### Database
