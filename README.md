@@ -31,7 +31,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> swati bagali</a>
 > I am a backend developer enthusiast 💻
 > I have a Bachelors in Computer Science from NIE 📚 - karnataka,India
 > I enjoy  API calling and Error handeling📝
-> Committed to lifelong learning 💖
+
 ```
 
 
