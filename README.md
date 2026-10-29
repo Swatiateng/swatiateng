@@ -34,14 +34,14 @@
  <br><br>
 </p>
 
-<h2 align="center">📊 Stats 📊</h2>
+<!-- <h2 align="center">📊 Stats 📊</h2>
 <br>
 <p align="center">
  <a href="#" alt="Most used languages">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxisandoval37&theme=dracula&layout=compact" />
  </a>
  <br><br>
-</p>
+</p> -->
 
 
 
