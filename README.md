@@ -1,8 +1,15 @@
-<h1 align="center">Hi there 👋<br>I'm Swati Bagali :)
- <p></p>
- 
- <br>
-</h1>
+
+<br/>
+<br/>
+
+## Heyyo, I'm <a href="https://swatiateng.github.io/swati-bagali/" target="_blank">swati Bagali</a>!
+
+
+
+
+<br />
+<br />
+<br />
 
 <h2 align="center">
  <details align="center">
