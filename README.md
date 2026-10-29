@@ -1,99 +1,90 @@
-<h1 align="center">
-Hi, I'm <a href="https://github.com/adilrahman"> swati bagali</a>
- <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
+<h1 align="center">Hi there 👋<br>I'm Swati Bagali :)
+ <p></p>
+ 
+ <br>
 </h1>
 
+<h2 align="center">
+ <details align="center">
+  <summary align="center">Contact me! ✔</summary>
+     <br>
+     <p>Mysore,Karnataka</p>
+     <p>• <a href="mailto:capcutme2026@gmail.com">capcutme2026@gmail.com</a></p>
+ </details>
+</h2>
 
-<!-- <img src="https://gpvc.arturio.dev/adilrahman" alt="Profile views" align='right'/> <a href="https://github.com/adilrahman/"> </a> 
-<br/> -->
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-</p>
 <p align="center">
-  <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+AND+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a> -->
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+Developer;Django+%7C+REST+API;C%2B%2B+%7C+DSA;Committed+to+lifelong+learning" />
-  
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
-
-
-<!---- <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> <i><small>About me</small></i> --->
-
-
-
-
-```css
-> root :~ whoami 
-```
-```python
-> I am a backend developer enthusiast 💻
-> I have a Bachelors in Computer Science from NIE 📚 - karnataka,India
-> I enjoy  API calling and Error handeling📝
-
-```
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> 
-
-
-
-<table width="100%" >
-<tr>
- 
-  <td> <h3 align="center"> :zap: SKILLS </h3>   </td>
-  <td> 
- 
-     
- 
-
-#### Lanuages 
----
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-
-![Html](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)
----
-
-      
-#### Web Development
-django
-RESTful API
-
----
-
-#### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
----
-#### Tools and Technologies
-
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-
-
-    
-</td>
-  
- </tr>
-</table>
 <br>
 
+ <a href="" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/domain--v1.png" />
+ </a>
+  
+ <a href="" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/youtube.png" />
+ </a>
 
-
-
-
-
-<p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
-
-
+ <a href="" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  
+ <a href="" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+ </a>
+ <br><br>
 </p>
-</div>
+
+<h2 align="center">📊 Stats 📊</h2>
+<br>
+<p align="center">
+ <a href="#" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxisandoval37&theme=dracula&layout=compact" />
+ </a>
+ <br><br>
+</p>
+
+
+
+
+<h2 align="center">🛠 Tech Stack 🛠</h2>
+<p align="center">
+ <a href="#" alt="github stats">
+<img src="https://readme-typing-svg.demolab.com/?font=BlinkMacSystemFont&size=34&pause=1000&color=f0f6fc&width=435&lines=C%3A%5CUsers%5Cswatibagali" />
+ </a>
+</p>
+<p align="center">
+    <a href="#" alt="Tech Stack">
+    <!--https://simpleicons.org-->
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-FFF?style=for-the-badge&logo=git" />
+     <img src="https://img.shields.io/badge/intellij%20idea-c97af3?style=for-the-badge&logo=intellijidea&logoColor=000000" />
+    <img src="https://img.shields.io/badge/Maven-ffc7fb?style=for-the-badge&logo=apache&logoColor=cc1c33" />
+    <!-- <img src="https://img.shields.io/badge/junit/Mockito-dd5149?style=for-the-badge&logo=junit5&logoColor=20a262" /> -->
+    <!-- <img src="https://img.shields.io/badge/selenium-00b400?style=for-the-badge&logo=selenium&logoColor=ffffff" /> -->
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring%20Security-white?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
+    <img src="https://img.shields.io/badge/sql-02569B?style=for-the-badge&logo=mysql&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Hibernate-05122A?style=for-the-badge&logo=hibernate" /> -->
+    <!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/react%20js-FFF?style=for-the-badge&logo=react&logoColor=cian" /> -->
+    <!-- <img src="https://img.shields.io/badge/thymeleaf-7b7770?style=for-the-badge&logo=thymeleaf&logoColor=005f0f" /> -->
+    <img src="https://img.shields.io/badge/Docker-abdbe3?style=for-the-badge&logo=docker&logoColor=cian" />
+    <!-- <img src="https://img.shields.io/badge/jenkins-d33833?style=for-the-badge&logo=jenkins&logoColor=fff" /> -->
+  </a>
+
+   <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake-dark.svg" />
+ 
+</p>
+
+<!-- <p align="center">
+ <hr/>
+  <a href="#" alt="principal">
+   <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/refs/heads/master/images/banner-new.png" />
+  </a>
+ <hr/>
+</p> -->
